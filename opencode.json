@@ -30,8 +30,8 @@
       "npm uninstall *": "ask",
 
       "git commit *": "ask",
-      "git push": "deny",
-      "git push *": "deny"
+      "git push": "ask",
+      "git push *": "ask"
     },
     "external_directory": "ask",
     "webfetch": "allow",
