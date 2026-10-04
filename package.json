@@ -1,0 +1,9 @@
+{
+  "name": "powerbi-opencode-kit",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Kit base para trabajar con Power BI mediante OpenCode",
+  "devDependencies": {
+    "@microsoft/powerbi-report-authoring-cli": "latest"
+  }
+}

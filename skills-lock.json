@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "powerbi-report-cli": {
+      "source": "microsoft/skills-for-fabric",
+      "sourceType": "github",
+      "skillPath": "skills/powerbi-report-cli/SKILL.md",
+      "computedHash": "3e61e7322299f170107e7a898aba3f4fded23c73c0120c918d4bc65b754acdf3"
+    }
+  }
+}
